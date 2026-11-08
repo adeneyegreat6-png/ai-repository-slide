@@ -1,0 +1,13 @@
+You use AI every day. Do you know what it is actually counting?
+
+In this carousel:
+→ AI reads in chunks, not words
+→ Why every model has limits
+→ Why pricing uses tokens
+→ Why shorter prompts win
+
+Save it for later and share it with someone on your team.
+
+Which idea was new to you? Comment the number
+
+#LearnAIWithDoyin #AIConcepts #AIExplained #AIForBeginners

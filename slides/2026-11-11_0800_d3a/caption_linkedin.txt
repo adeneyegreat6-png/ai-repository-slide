@@ -1,0 +1,13 @@
+AI can be wrong and sound completely sure. Here is the fix.
+
+In this carousel:
+→ It predicts, it does not know
+→ Gaps get filled in
+→ Make it show its work
+→ Verify what matters
+
+Save it for later and share it with someone on your team.
+
+Has AI ever confidently told you something wrong? Tell me below
+
+#LearnAIWithDoyin #AIConcepts #AIHallucination #AIForBeginners

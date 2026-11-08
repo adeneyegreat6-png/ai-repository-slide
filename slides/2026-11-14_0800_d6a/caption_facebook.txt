@@ -1,0 +1,12 @@
+"Chat with your PDF" tools all use one idea. Here it is in four steps.
+
+01 | The problem RAG solves
+02 | Step one: find the right pages
+03 | Step two: hand them to the AI
+04 | Why it beats retraining
+
+Save this and send it to someone who needs it.
+
+Which step made it click? Comment the number 👇
+
+#LearnAIWithDoyin #AIConcepts #RAG #AIForBeginners #GenerativeAI
