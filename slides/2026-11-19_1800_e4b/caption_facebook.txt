@@ -1,0 +1,12 @@
+Before you train a model, try asking it better.
+
+01 | Prompting changes the input
+02 | Fine-tuning changes the model
+03 | Start with prompting
+04 | When tuning makes sense
+
+Save this and send it to someone who needs it.
+
+Which idea was new to you? Comment the number 👇
+
+#LearnAIWithDoyin #AIConcepts #FineTuning #PromptEngineering #AIExplained

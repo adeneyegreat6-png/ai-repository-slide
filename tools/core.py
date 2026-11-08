@@ -9,7 +9,7 @@ M = 80
 CW = W - 2*M
 OUT = "/home/claude/slides_photo10"
 os.makedirs(OUT, exist_ok=True)
-PHOTO = "/mnt/user-data/uploads/1767332302414.jpg"
+PHOTO = "/home/claude/ai-repository-slide/assets/portrait.jpg"
 HANDLE = "@learnaiwithdoyin"
 TOTAL_DOTS = 6
 
