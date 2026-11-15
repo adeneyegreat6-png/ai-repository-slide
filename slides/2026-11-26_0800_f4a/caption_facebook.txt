@@ -1,0 +1,12 @@
+AI used to only read text. Now it can also look at what you show it.
+
+01 | More than one input
+02 | Show, do not just tell
+03 | Mix formats together
+04 | Still needs checking
+
+Save this and send it to someone who needs it.
+
+Which idea was new to you? Comment the number 👇
+
+#LearnAIWithDoyin #AIConcepts #MultimodalAI #AIExplained #AIForBeginners

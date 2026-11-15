@@ -1,0 +1,12 @@
+Instead of explaining what you want, try showing it.
+
+01 | Examples beat instructions
+02 | Zero shot means no examples
+03 | Two to three is enough
+04 | Quality matters more than quantity
+
+Save this and send it to someone who needs it.
+
+Which idea was new to you? Comment the number 👇
+
+#LearnAIWithDoyin #AIConcepts #PromptEngineering #AIExplained #AIForBeginners
